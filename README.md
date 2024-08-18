@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/dmitrniki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/dmitrniki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/dmitrniki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dmitrniki/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nikiforovdmitrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nikiforovdmitrii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
