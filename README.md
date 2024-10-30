@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **NPM Department asignments**
 
-- 🌱 I’m currently learning **C++, Phyton, algotythms, Machine Learning, LaTex**
+- 🌱 I’m currently learning **C++, Phyton, PowerBI, algotythms, Machine Learning, LaTex**
 
-- 👯 I’m looking to collaborate on **yandex**
+- 👯 I’m looking to collaborate on **T-Bank** and **yandex**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DmitrNiki](https://github.com/DmitrNiki)
 
