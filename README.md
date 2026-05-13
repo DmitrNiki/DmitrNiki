@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikiforov Dmitrii</h1>
 <h3 align="center">an ambitious programming learner</h3>
 
-- 🔭 I’m currently working on **NPM Department asignments**
+- 🔭 I’m currently working on **NPM Department asignments** and for **T-Bank** as Bussines Analyst
 
 - 🌱 I’m currently learning **C++, Phyton, PowerBI, algotythms, Machine Learning, LaTex**
-
-- 👯 I’m looking to collaborate on **T-Bank** and **yandex**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DmitrNiki](https://github.com/DmitrNiki)
 
